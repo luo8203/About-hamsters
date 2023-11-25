@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<style>
+body{
+background-image:url('img_hamster.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+p{border:5px solid pink; padding: 30px; margin: 20px;}
+
+</style>
+
+</head>
+
+<body>
+
+<h1 style="font-size:60px;">Hamsters!!!</h1>
+
+</style>
+
+<h1> Do you like hamsters?</h1>
+
+<p>
+<body style="font-size:20px;"> I like hamsters and I have a hamster as a pet, it is a girl.</body>
+</p>
+<p style="color:blue;">If you like the hamster here is the picture</p>
+
+<img src=" pic_hamster.jpeg" alt="hamster">
+
+
+<mark>I think you kind like the hamster now  </mark>
+
+<p><a href="#c1'> Jump to Chapter 1</a></p>
+
+<h2 id="c1">Chapter 1</h2>
+
+<em>
+
+<h2 style="font-size:55px;">
+<<
+Let me tell you you about my hamster :)
+>>
+</h2>
+
+</em> 
+
+<p>
+
+<body>My hamster name's milktea, she's 1 years old, she's furry, she has a white and grey hair. Why I name the hamsteer"milk tea"?</body> 
+
+<body>Because when I buy her I was drink the milk tea and I can not think better name for her so I name her "milk tea". </body>
+</p>
+
+<strong>And if you want know more information about hamster, here have some information about hamsters<
+
+<a href= https://pethelpful.com/rodents/My-Hamster-is-Pregnant-Now-What
+
+target="_blank">Hamsters</a>
+>
+</strong>
+
+
+
+<em>
+<h3 style="font-size:60px;"> 
+<<
+Hamsters Eats
+>>
+</em>
+
+</h3>
+
+<h3 Hamsters and us humans eat something different. They have theit own exclusive foods, but they can also eats some human foods. </h3>
+<p>
+
+<body>Hamsters and us humans eat something different. They have their own exclusive foods, but they can also eats some human foods.</body>
+</p>
+
+<em>
+<h3 style="font-size:60px;"> 
+<<
+Wash body
+>>
+</em>
+
+Hamster can not use water to wash body because it wounld make the hamster died.
+
+<pre>
+</html>
+
+<p style="color:red;">Bye!</p>
+
+</pre>
+
+</head>
+
+
